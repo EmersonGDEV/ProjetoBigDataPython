@@ -1,17 +1,16 @@
 
 Análise de Pobreza e Vulnerabilidade no Brasil (2012-2022)
 
-1. Tendências de Pobreza e Extrema Pobreza:
-   - Observamos que a porcentagem de pobreza e extrema pobreza apresenta uma tendência de redução ao longo dos anos, 
-     embora a extrema pobreza ainda permaneça em níveis preocupantes em alguns anos.
+1. Evolução da Pobreza e Extrema Pobreza:
+   - Observa-se uma tendência de redução na porcentagem de pobreza ao longo dos anos, embora a extrema pobreza ainda
+     permaneça em níveis elevados em certos períodos, o que indica a necessidade de intervenções sociais.
 
-2. Média de Vulnerabilidade por Grupos Étnicos:
-   - A média de vulnerabilidade dos grupos indígenas, quilombolas e ciganos é significativamente maior, 
-     indicando a necessidade de políticas públicas específicas e eficazes para esses grupos.
+2. Vulnerabilidade por Grupos Étnicos:
+   - Grupos étnicos específicos, como indígenas, quilombolas e ciganos, apresentam média de vulnerabilidade
+     significativamente alta, sugerindo uma necessidade de políticas públicas focadas nesses grupos.
 
-3. Mapa de Calor da Correlação:
-   - O mapa de calor ilustra a relação entre várias variáveis, revelando correlações significativas 
-     que podem ajudar na compreensão dos fatores que influenciam a pobreza no Brasil.
+3. Análise de Correlação:
+   - O mapa de calor mostra as correlações entre diferentes variáveis, ajudando a identificar os fatores que
+     influenciam a pobreza e a vulnerabilidade no Brasil.
 
-Os gráficos e o mapa de calor fornecem uma visão visual das questões de pobreza e vulnerabilidade,
-enquanto o relatório textual sumariza as principais descobertas.
+Os gráficos e o relatório fornecem uma visão completa das questões analisadas.
